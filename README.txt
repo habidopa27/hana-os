@@ -16,3 +16,5 @@ Current features:
 IMPORTANT: Data is local to the browser/device. Export backups regularly. Cloud sync and AI weekly synthesis are not included yet.
 
 To publish and get a URL, upload the CONTENTS of this folder to a static host such as GitHub Pages, Netlify, or Vercel. Once opened in Safari on iPhone, use Share > Add to Home Screen.
+
+V2.1: Official Hana OS Becoming Mark added to app header and Home Screen icons.
